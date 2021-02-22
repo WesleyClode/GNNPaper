@@ -61,6 +61,44 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 <tr><td colspan="2"><a href="#NOW">4. NOW</a></td></tr>
 </table>
 
+## [NOW](#NOW)
+
+### Interesting
+
+1. **SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS.** ICLR 2017.[paper](https://arxiv.org/abs/1609.02907)
+
+   *Thomas N. Kipf, Max Welling*
+
+2. **Variational Graph Auto-Encoders.** NIPS workshop.[paper](https://arxiv.org/abs/1611.07308)
+
+   *Thomas N. Kipf, Max Welling*
+
+3. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks**. ICML 2017. [Paper](https://arxiv.org/abs/1704.06803)
+
+   *Federico Monti, Michael M. Bronstein, Xavier Bresson*
+
+4. **GTAE: Graph-Transformer based Auto-Encoders for Linguistic-Constrained Text Style Transfer**. 
+
+   *Yukai Shi; Sen Zhang; Chenxing Zhou; Xiaodan Liang; Xiaojun Yang; Liang Lin*
+
+5. **Principal Neighbourhood Aggregation for Graph Nets** [paper](https://arxiv.org/pdf/2004.05718.pdf) [code](https://github.com/lukecavabarrett/pna)
+
+6. **Directional Graph Network. Oral at DiffGeo4DL workshop NeurIPS 2020** ([paper](https://arxiv.org/abs/2010.02863), [code](https://github.com/Saro00/DGN))
+
+7. **Weisfeiler-Lehman Graph Kernels** [paper](https://www.jmlr.org/papers/volume12/shervashidze11a/shervashidze11a.pdf) 
+
+8. **Distance Encoding** [paper](https://arxiv.org/abs/2009.00142) [code](https://github.com/snap-stanford/distance-encoding)
+
+
+### Time
+
+1. **Memory Augmented Graph Neural Networks for Sequential Recommendation**. AAAI 2020. [paper](https://arxiv.org/abs/1912.11730)
+
+   *Chen Ma,Liheng Ma, Yingxue Zhang, Jianing Sun, Xue Liu, Mark Coates*
+
+   [code1](https://github.com/wuliwei9278/HGN_baseline) [code2](https://github.com/allenjack/HGN)
+
+2. **Hierarchical Gating Networks for Sequential Recommendation**. KDD 2019 .[paper](https://arxiv.org/abs/1906.09217)
 
 ## [Survey papers](#content)
 
@@ -1900,37 +1938,4 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
    *Krzysztof Rusek, José Suárez-Varela, Albert Mestres, Pere Barlet-Ros, Albert Cabellos-Aparicio.*
 
-## [NOW](#NOW)
-
-### Interesting
-
-1. **SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS.** ICLR 2017.[paper](https://arxiv.org/abs/1609.02907)
-
-   *Thomas N. Kipf, Max Welling*
-
-2. **Variational Graph Auto-Encoders.** NIPS workshop.[paper](https://arxiv.org/abs/1611.07308)
-
-   *Thomas N. Kipf, Max Welling*
-
-3. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks**. ICML 2017. [Paper](https://arxiv.org/abs/1704.06803)
-
-   *Federico Monti, Michael M. Bronstein, Xavier Bresson*
-
-4. **GTAE: Graph-Transformer based Auto-Encoders for Linguistic-Constrained Text Style Transfer**. 
-
-   *Yukai Shi; Sen Zhang; Chenxing Zhou; Xiaodan Liang; Xiaojun Yang; Liang Lin*
-
-5. **Principal Neighbourhood Aggregation for Graph Nets** [paper](https://arxiv.org/pdf/2004.05718.pdf) [code](https://github.com/lukecavabarrett/pna)
-
-6. **Directional Graph Networks". Oral at DiffGeo4DL workshop NeurIPS 2020** ([paper](https://arxiv.org/abs/2010.02863), [code](https://github.com/Saro00/DGN))
-
-### Time
-
-1. **Memory Augmented Graph Neural Networks for Sequential Recommendation**. AAAI 2020. [paper](https://arxiv.org/abs/1912.11730)
-
-   *Chen Ma,Liheng Ma, Yingxue Zhang, Jianing Sun, Xue Liu, Mark Coates*
-
-   [code1](https://github.com/wuliwei9278/HGN_baseline) [code2](https://github.com/allenjack/HGN)
-
-2. **Hierarchical Gating Networks for Sequential Recommendation**. KDD 2019 .[paper](https://arxiv.org/abs/1906.09217)
 
