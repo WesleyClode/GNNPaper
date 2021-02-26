@@ -93,6 +93,8 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 10. **GraphSAGE convolution (Hamilton et al.,2017)**.  [paper](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
 
+11. **SEAL**[paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
+
 ### Time
 
 1. **Memory Augmented Graph Neural Networks for Sequential Recommendation**. AAAI 2020. [paper](https://arxiv.org/abs/1912.11730)
