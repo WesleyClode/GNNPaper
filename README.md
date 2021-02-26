@@ -89,6 +89,8 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 8. **Distance Encoding** [paper](https://arxiv.org/abs/2009.00142) [code](https://github.com/snap-stanford/distance-encoding)
 
+9.**Link Prediction Based on Graph Neural Networks** [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
+
 
 ### Time
 
