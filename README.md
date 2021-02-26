@@ -91,6 +91,7 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 
 9. **Link Prediction Based on Graph Neural Networks** [paper](https://papers.nips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
 
+10. **GraphSAGE convolution (Hamilton et al.,2017)**.  [paper](https://cs.stanford.edu/people/jure/pubs/graphsage-nips17.pdf)
 
 ### Time
 
